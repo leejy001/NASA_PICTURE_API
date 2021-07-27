@@ -1,0 +1,17 @@
+.btn-prev {
+  background-color: white;
+  border: 1px solid lightgray;
+  height: 38px;
+}
+
+.btn-next {
+  background-color: white;
+  border: 1px solid lightgray;
+  height: 38px;
+}
+
+.pagination-area {
+  margin: 1rem;
+  position: relative;
+  bottom: 0;
+}
